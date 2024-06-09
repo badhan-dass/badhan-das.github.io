@@ -1,10 +1,7 @@
 About Me
 ======
-I am a PhD candidate at Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU). I received my Bachelor’s and MS in Computer Science and Engineering from Jahangirnagar University (JU), Bangladesh. My research interests are primarily focused on machine learning, computer vision, large language models, their security and privacy as well as their real-world applications.
+I am a PhD candidate at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University (FIU). I received my Bachelor’s and MS in Computer Science and Engineering from Jahangirnagar University (JU), Bangladesh. My research interests are primarily focused on machine learning, computer vision, large language models, their security and privacy as well as their real-world applications.
 
-
-
-#This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are #built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) #created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]#(https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own #personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Publications
 ======
@@ -21,7 +18,14 @@ Experience
 
 Teaching
 ------
-1. GTA Experience at FIU
+**1. GTA Experience at FIU**
+   I. CAP-5614-Operating System (Spring 2023)
+  II. NSF Research Experience for Teachers (Summer 2023)
+ III. CAP-4614-Operating System (Fall 2023)
+**2. Lecturer**
+  I. Department of Computer Science and Engineering, Bangladesh University of Business and Technology (BUBT) (2020-2022)
+ II. Department of Computer Science and Engineering, University of Development Alternative (UODA) (2019)
+  
 
 Professional Actvities
 ------
