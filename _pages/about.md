@@ -22,7 +22,7 @@ Teaching
    I. CAP-5614-Operating System (Spring 2023)
   II. NSF Research Experience for Teachers (Summer 2023)
  III. CAP-4614-Operating System (Fall 2023)
-**2. Lecturer**
+**1. Lecturer**
   I. Department of Computer Science and Engineering, Bangladesh University of Business and Technology (BUBT) (2020-2022)
  II. Department of Computer Science and Engineering, University of Development Alternative (UODA) (2019)
   
