@@ -19,9 +19,9 @@ Experience
 Teaching
 ------
 **1. GTA Experience at FIU**
-   I. CAP-5614-Operating System (Spring 2023)
-  II. NSF Research Experience for Teachers (Summer 2023)
- III. CAP-4614-Operating System (Fall 2023)
+   I. Spring 2023: CAP-5614-Operating System 
+  II. Summer 2023: NSF Research Experience for Teachers
+ III. Fall 2023: CAP-4614-Operating System 
 **1. Lecturer**
   I. Department of Computer Science and Engineering, Bangladesh University of Business and Technology (BUBT) (2020-2022)
  II. Department of Computer Science and Engineering, University of Development Alternative (UODA) (2019)
